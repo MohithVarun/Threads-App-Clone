@@ -1,6 +1,5 @@
 # Threads App with Real-Time Chat Functionality
 
-![Demo App](https://i.ibb.co/BnGdh10/Group-62.png)
 
 Feature List:
 
